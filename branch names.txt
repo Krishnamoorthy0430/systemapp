@@ -1,0 +1,8 @@
+[2:09 PM] Jagadeeswaran R (Unverified)
+Main branch: Serves as the primary branch where the codebase's current production state is reflected.
+Develop branch: Aggregates developments and features before they are released to the main branch.
+Feature branches: Typically follow the naming pattern feature/*, these branches are used to develop new features.
+Release branches: Named like release/*, these branches help manage the release process.
+Hotfix branches: Named hotfix/*, these branches are created to quickly patch production releases.
+ 
+Hello
